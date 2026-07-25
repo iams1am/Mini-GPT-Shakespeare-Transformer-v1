@@ -1,0 +1,11 @@
+# Dataset
+shakespeare.txt
+
+# Model weights
+*.pth
+
+# Python cache
+__pycache__/
+
+#Images
+.png
